@@ -1,3 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
 p{
     color:red;
 }
+
+button {
+    padding: 20px;
+    background-color: aquamarine;
+    margin: 20px 5px;
+}
+
+img {
+    width: 196px;
+    aspect-ratio: auto 196 / 273;
+    height: 273px;
+    border-radius: 4%;
+}
+
+div {
+    background-color: blue;
+}
+
+
+
